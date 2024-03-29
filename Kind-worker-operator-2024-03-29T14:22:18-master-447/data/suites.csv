@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Mar 29 14:18:24 GMT 2024","Fri Mar 29 14:18:24 GMT 2024","118","","Worker Suite","","Worker Suite","","[BeforeSuite]",""
+"passed","Fri Mar 29 14:18:19 GMT 2024","Fri Mar 29 14:18:20 GMT 2024","1171","","SliceHealth Suite","","SliceHealth Suite","","[AfterSuite]",""
+"passed","Fri Mar 29 14:18:24 GMT 2024","Fri Mar 29 14:18:24 GMT 2024","440","","Worker Suite","","Worker Suite","","[AfterSuite]",""
+"failed","Fri Mar 29 14:18:18 GMT 2024","Fri Mar 29 14:18:18 GMT 2024","270","","VPNKeyRotation Suite","","VPNKeyRotation Suite","","[BeforeSuite]",""
+"failed","Fri Mar 29 14:18:19 GMT 2024","Fri Mar 29 14:18:19 GMT 2024","471","","SliceHealth Suite","","SliceHealth Suite","","[BeforeSuite]",""
+"passed","Fri Mar 29 14:18:18 GMT 2024","Fri Mar 29 14:18:19 GMT 2024","1031","","VPNKeyRotation Suite","","VPNKeyRotation Suite","","[AfterSuite]",""
