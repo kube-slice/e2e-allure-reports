@@ -1,0 +1,1 @@
+[{"values":["TAG"],"name":"IMAGE"},{"values":["v0.8.0"],"name":"gcr.io/kubebuilder/kube-rbac-proxy"},{"values":["1.5.1-RELEASE-9d110a1e"],"name":"aveshadev/kubeslice-controller"},{"values":["1.5.1-RELEASE-3e9f4a27"],"name":"aveshadev/worker-operator"},{"values":["1.22.9"],"name":"alpine/k8s"},{"values":["https://kubeslice.github.io/e2e-allure-reports/"],"name":"URL"}]
